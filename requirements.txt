@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+mne
+h5io
+pymatreader
+seaborn
+#pickle, if not already present by default from python 3.7
